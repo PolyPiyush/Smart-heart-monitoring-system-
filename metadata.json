@@ -1,0 +1,6 @@
+{
+  "name": "SmartHeart AI - Multimodal CAD Stratification",
+  "description": "Clinically interpretable multimodal feature fusion and Bayesian-tuned soft-voting ensemble for early coronary artery disease risk stratification on the UCI Cleveland dataset.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
